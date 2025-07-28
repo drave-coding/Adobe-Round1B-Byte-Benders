@@ -1,0 +1,777 @@
+{
+    "metadata": {
+        "input_documents": [
+            "doc1.pdf",
+            "doc2.pdf",
+            "doc3.pdf",
+            "doc4.pdf"
+        ],
+        "persona": {
+            "role": "Renewable Energy Entrepreneur"
+        },
+        "job_to_be_done": "Identify viable and scalable technologies for a new business venture. Focus on technical readiness, market potential, and economic analysis sections of the reports.",
+        "processing_timestamp": "2025-07-28T16:16:03.905242Z"
+    },
+    "extracted_section": [
+        {
+            "document": "doc1.pdf",
+            "page_number": 32,
+            "section_title": "Scale Up Clean Energy Systems",
+            "importance_rank": 1
+        },
+        {
+            "document": "doc2.pdf",
+            "page_number": 4,
+            "section_title": "Priority Actions",
+            "importance_rank": 2
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 42,
+            "section_title": "Efficiency",
+            "importance_rank": 3
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 55,
+            "section_title": "Box 5.7 The Niger River Basin Management Project",
+            "importance_rank": 4
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 33,
+            "section_title": "Power System Planning",
+            "importance_rank": 5
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 56,
+            "section_title": "Box 5.8 Supporting Innovation in Energy Storage",
+            "importance_rank": 6
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 9,
+            "section_title": "Transport",
+            "importance_rank": 7
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 35,
+            "section_title": "Optimize the Use of Concessional Finance",
+            "importance_rank": 8
+        },
+        {
+            "document": "doc2.pdf",
+            "page_number": 8,
+            "section_title": "Policy implications/recommendations",
+            "importance_rank": 9
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 10,
+            "section_title": "III. Financing to Support the Transitions",
+            "importance_rank": 10
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 17,
+            "section_title": "Plan: Structure and Drivers",
+            "importance_rank": 11
+        },
+        {
+            "document": "doc2.pdf",
+            "page_number": 5,
+            "section_title": "Policy Brief on the interlinkages between energy",
+            "importance_rank": 12
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 22,
+            "section_title": "Building on WBG Experience",
+            "importance_rank": 13
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 34,
+            "section_title": "Energy Efficiency",
+            "importance_rank": 14
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 29,
+            "section_title": "Box 3.2 Examples of Successful Energy Sector Reforms",
+            "importance_rank": 15
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 12,
+            "section_title": "Climate-Smart Land Use, Water, and Food Security",
+            "importance_rank": 16
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 69,
+            "section_title": "East Asia and Pacific",
+            "importance_rank": 17
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 13,
+            "section_title": "Align Internal Processes and Work with Others",
+            "importance_rank": 18
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 11,
+            "section_title": "Renewable Energy and Energy Efficiency",
+            "importance_rank": 19
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 79,
+            "section_title": "South Asia",
+            "importance_rank": 20
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 63,
+            "section_title": "Collaboration to Deliver",
+            "importance_rank": 21
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 40,
+            "section_title": "Planning for Low-Carbon and Resilient Cities",
+            "importance_rank": 22
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 35,
+            "section_title": "A Just Transition Away from Coal",
+            "importance_rank": 23
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 18,
+            "section_title": "PROMOTING GREEN, RESILIENT, AND INCLUSIVE DEVELOPMENT",
+            "importance_rank": 24
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 52,
+            "section_title": "Building Climate Capital Markets",
+            "importance_rank": 25
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 39,
+            "section_title": "Finance, Technology and International Cooperation",
+            "importance_rank": 26
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 19,
+            "section_title": "Partnerships to Drive Climate Action",
+            "importance_rank": 27
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 41,
+            "section_title": "Climate Action",
+            "importance_rank": 28
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 47,
+            "section_title": "THE TRANSITIONS",
+            "importance_rank": 29
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 53,
+            "section_title": "Enabling Domestic Catalyzation",
+            "importance_rank": 30
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 23,
+            "section_title": "Meeting WBG Commitments",
+            "importance_rank": 31
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 32,
+            "section_title": "Catalyze Private Capital",
+            "importance_rank": 32
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 54,
+            "section_title": "CONCESSIONAL FINANCE",
+            "importance_rank": 33
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 62,
+            "section_title": "Solution Packages",
+            "importance_rank": 34
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 50,
+            "section_title": "Food Security",
+            "importance_rank": 35
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 42,
+            "section_title": "Building Coastal Resilience to Protect Lives and Livelihoods",
+            "importance_rank": 36
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 51,
+            "section_title": "Expanding Access to Private Capital and Green Finance",
+            "importance_rank": 37
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 71,
+            "section_title": "Europe and Central Asia",
+            "importance_rank": 38
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 36,
+            "section_title": "Climate Finance",
+            "importance_rank": 39
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 5,
+            "section_title": "Contents",
+            "importance_rank": 40
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 23,
+            "section_title": "Country Climate and Development Reports",
+            "importance_rank": 41
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 28,
+            "section_title": "Commitments and Priorities into Actions",
+            "importance_rank": 42
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 7,
+            "section_title": "Aligning our Financial Flows with the Paris Agreement",
+            "importance_rank": 43
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 49,
+            "section_title": "Building Country Financial Stability and Integrity",
+            "importance_rank": 44
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 30,
+            "section_title": "SYSTEMS TRANSITIONS",
+            "importance_rank": 45
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 41,
+            "section_title": "Integrated Waste Management and Circular Economy",
+            "importance_rank": 46
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 26,
+            "section_title": "ALIGNMENT WITH THE PARIS AGREEMENT",
+            "importance_rank": 47
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 54,
+            "section_title": "Benefits",
+            "importance_rank": 48
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 50,
+            "section_title": "Upstream Support",
+            "importance_rank": 49
+        },
+        {
+            "document": "doc2.pdf",
+            "page_number": 1,
+            "section_title": "ENERGY AND JOBS",
+            "importance_rank": 50
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 10,
+            "section_title": "Leverage Resources",
+            "importance_rank": 51
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 16,
+            "section_title": "DELIVERY UNDER CCAP 20162020",
+            "importance_rank": 52
+        },
+        {
+            "document": "doc2.pdf",
+            "page_number": 3,
+            "section_title": "Norad",
+            "importance_rank": 53
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 20,
+            "section_title": "AND DEVELOPMENT",
+            "importance_rank": 54
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 60,
+            "section_title": "Work in Partnership with Others",
+            "importance_rank": 55
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 15,
+            "section_title": "PARTNERS",
+            "importance_rank": 56
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 8,
+            "section_title": "Energy",
+            "importance_rank": 57
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 7,
+            "section_title": "Abbreviations",
+            "importance_rank": 58
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 46,
+            "section_title": "Box 5.2 IFC Promotes Private Sector Financing for Clean Energy",
+            "importance_rank": 59
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 30,
+            "section_title": "Box 3.3 Toward Carbon Pricing in Two Countries",
+            "importance_rank": 60
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 39,
+            "section_title": "Blue Economy",
+            "importance_rank": 61
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 74,
+            "section_title": "Latin America and the Caribbean",
+            "importance_rank": 62
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 6,
+            "section_title": "Introduction",
+            "importance_rank": 63
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 77,
+            "section_title": "Middle East and North Africa",
+            "importance_rank": 64
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 31,
+            "section_title": "Note",
+            "importance_rank": 65
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 19,
+            "section_title": "A Demand-Driven Plan",
+            "importance_rank": 66
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 21,
+            "section_title": "Climate Risks and Macroeconomic Policies",
+            "importance_rank": 67
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 37,
+            "section_title": "Nature-Based Solutions",
+            "importance_rank": 68
+        },
+        {
+            "document": "doc2.pdf",
+            "page_number": 2,
+            "section_title": "UN HIGH-LEVEL POLITICAL FORUM 2018",
+            "importance_rank": 69
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 64,
+            "section_title": "Align Internal Processes and Incentives",
+            "importance_rank": 70
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 51,
+            "section_title": "Agriculture",
+            "importance_rank": 71
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 28,
+            "section_title": "CLIMATE FINANCE AND IMPACT",
+            "importance_rank": 72
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 22,
+            "section_title": "Supporting Clients to Design and Implement Carbon Pricing",
+            "importance_rank": 73
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 11,
+            "section_title": "Observed Changes and Impacts",
+            "importance_rank": 74
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 57,
+            "section_title": "Most Vulnerable",
+            "importance_rank": 75
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 27,
+            "section_title": "BudgetsA Few Examples",
+            "importance_rank": 76
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 16,
+            "section_title": "Notes",
+            "importance_rank": 77
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 61,
+            "section_title": "Global Advocacy on Key Issues",
+            "importance_rank": 78
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 67,
+            "section_title": "Africa",
+            "importance_rank": 79
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 43,
+            "section_title": "Logistics and Freight",
+            "importance_rank": 80
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 9,
+            "section_title": "Executive Summary",
+            "importance_rank": 81
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 37,
+            "section_title": "Equity and Inclusion",
+            "importance_rank": 82
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 31,
+            "section_title": "The Benefits of Near-Term Action",
+            "importance_rank": 83
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 49,
+            "section_title": "Box 5.4 Promoting More Resilient and Sustainable Cities",
+            "importance_rank": 84
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 46,
+            "section_title": "Financing Adaptation for Impact",
+            "importance_rank": 85
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 5,
+            "section_title": "SUMMARY",
+            "importance_rank": 86
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 58,
+            "section_title": "NOTES",
+            "importance_rank": 87
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 15,
+            "section_title": "1. Context and Rationale",
+            "importance_rank": 88
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 13,
+            "section_title": "OVERVIEW",
+            "importance_rank": 89
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 44,
+            "section_title": "Resilient Transport Systems",
+            "importance_rank": 90
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 7,
+            "section_title": "Policymakers",
+            "importance_rank": 91
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 47,
+            "section_title": "Box 5.3 Investing in Sustainable Mobility",
+            "importance_rank": 92
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 38,
+            "section_title": "Water, Development, and Climate Change",
+            "importance_rank": 93
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 36,
+            "section_title": "Climate-Smart Agriculture",
+            "importance_rank": 94
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 34,
+            "section_title": "Mitigation and Adaptation Options across Systems",
+            "importance_rank": 95
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 30,
+            "section_title": "Urgency of Near-Term Integrated Climate Action",
+            "importance_rank": 96
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 1,
+            "section_title": "A Report of the Intergovernmental Panel on Climate Change",
+            "importance_rank": 97
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 25,
+            "section_title": "Carbon Budgets and Net Zero Emissions",
+            "importance_rank": 98
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 1,
+            "section_title": "World Bank Group",
+            "importance_rank": 99
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 29,
+            "section_title": "Overshoot: Exceeding a Warming Level and Returning",
+            "importance_rank": 100
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 33,
+            "section_title": "There are multiple opportunities for scaling up climate action",
+            "importance_rank": 101
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 24,
+            "section_title": "Support for National Policies and Strategies",
+            "importance_rank": 102
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 28,
+            "section_title": "Limiting warming to 1.5C and 2C involves rapid, deep and",
+            "importance_rank": 103
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 26,
+            "section_title": "Mitigation Pathways",
+            "importance_rank": 104
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 14,
+            "section_title": "Current Progress in Adaptation and Gaps and Challenges",
+            "importance_rank": 105
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 1,
+            "section_title": "Action Plan",
+            "importance_rank": 106
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 18,
+            "section_title": "Future Climate Change",
+            "importance_rank": 107
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 10,
+            "section_title": "Observed Warming and its Causes",
+            "importance_rank": 108
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 36,
+            "section_title": "Synergies and Trade-Offs with Sustainable Development",
+            "importance_rank": 109
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 16,
+            "section_title": "Current Mitigation Progress, Gaps and Challenges",
+            "importance_rank": 110
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 23,
+            "section_title": "Risks are increasing with every increment of warming",
+            "importance_rank": 111
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 3,
+            "section_title": "The Core Writing Team",
+            "importance_rank": 112
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 24,
+            "section_title": "Changes",
+            "importance_rank": 113
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 4,
+            "section_title": "CONTENTS",
+            "importance_rank": 114
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 13,
+            "section_title": "Adverse impacts from human-caused",
+            "importance_rank": 115
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 11,
+            "section_title": "Conclusion",
+            "importance_rank": 116
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 22,
+            "section_title": "Future climate change is projected to increase the severity of impacts",
+            "importance_rank": 117
+        },
+        {
+            "document": "doc3.pdf",
+            "page_number": 20,
+            "section_title": "Climate Change Impacts and Climate-Related Risks",
+            "importance_rank": 118
+        }
+    ],
+    "sub-section_analysis": [
+        {
+            "document": "doc1.pdf",
+            "page_number": 32,
+            "refined_text": "Renewable energy technologies create jobs throughout the supply chain and can spur broad and sustainable social and economic development."
+        },
+        {
+            "document": "doc2.pdf",
+            "page_number": 4,
+            "refined_text": "With manufacturing of renewable energy equipment concentrated in a few countries, employment opportunities in other countries will mostly lie in project development, sales, construction and installations, and operations and maintenance."
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 42,
+            "refined_text": "The objective is a net increase in investments in distributed renewable energy, and the opening of new markets."
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 55,
+            "refined_text": "Going forward, the WBG will support green, innovative sectors in develop- ing countries."
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 33,
+            "refined_text": "The WBG aims to accelerate investments and mobilize concessional finance for battery storage to help countries integrate more renewable energy."
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 56,
+            "refined_text": "The WBG will pilot innovative approaches to support clients climate technology ecosystems and industrial competitiveness by facilitating policy and regulations to catalyze private investment and green trade."
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 9,
+            "refined_text": "v Executive Summary investing in projects to increase energy access, including through renewable energy and improved energy efficiency; and a just transition away from coal."
+        },
+        {
+            "document": "doc4.pdf",
+            "page_number": 35,
+            "refined_text": "The photovoltaic (PV) solar industry has experienced tre- mendous growth in recent years, driven largely by declining costs and a growing interest in emission-free power."
+        },
+        {
+            "document": "doc2.pdf",
+            "page_number": 8,
+            "refined_text": "Avoid skills gaps Some skills gaps already exist for technical and engineering positions and could grow as the renewable energy sector continues to expand."
+        },
+        {
+            "document": "doc1.pdf",
+            "page_number": 10,
+            "refined_text": "The WBG will support greening the financial sector across emerging markets through its work with central banks, national development banks, and private sector financial institutions, including through targeted advisory engagements to equip clients with the necessary frameworks to create enabling environments and risk mitigation practices to embrace climate action, while also enabling innovative and scalable funding mechanisms in support of sustainable investments."
+        }
+    ]
+}

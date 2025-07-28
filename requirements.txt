@@ -1,0 +1,5 @@
+sentence-transformers
+scikit-learn
+PyMuPDF
+numpy
+statistics

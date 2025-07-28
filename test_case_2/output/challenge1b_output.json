@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "input_documents": [
+            "10-Q4-2024-As-Filed.pdf",
+            "2024_Annual_Report.pdf",
+            "goog-10-k-2024.pdf"
+        ],
+        "persona": {
+            "role": "Investment Analyst"
+        },
+        "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies",
+        "processing_timestamp": "2025-07-28T16:15:11.155642Z"
+    },
+    "extracted_section": [
+        {
+            "document": "2024_Annual_Report.pdf",
+            "page_number": 27,
+            "section_title": "MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF",
+            "importance_rank": 1
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 89,
+            "section_title": "PERFORMANCE VESTING REQUIREMENTS",
+            "importance_rank": 2
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 108,
+            "section_title": "Insider Trading Policy",
+            "importance_rank": 3
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 1,
+            "section_title": "FORM 10-K",
+            "importance_rank": 4
+        },
+        {
+            "document": "goog-10-k-2024.pdf",
+            "page_number": 1,
+            "section_title": "FORM 10-K",
+            "importance_rank": 5
+        },
+        {
+            "document": "2024_Annual_Report.pdf",
+            "page_number": 86,
+            "section_title": "CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND",
+            "importance_rank": 6
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 113,
+            "section_title": "Questions",
+            "importance_rank": 7
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 76,
+            "section_title": "TERMS AND CONDITIONS OF RESTRICTED STOCK UNIT AWARD",
+            "importance_rank": 8
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 109,
+            "section_title": "Insider Trading Prohibitions",
+            "importance_rank": 9
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 111,
+            "section_title": "Permitted Transactions",
+            "importance_rank": 10
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 120,
+            "section_title": "States, each as determined in accordance with Rule 10D-1, the Committee will make a",
+            "importance_rank": 11
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 119,
+            "section_title": "For avoidance of doubt, incentive-based compensation that is not earned or vested",
+            "importance_rank": 12
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 110,
+            "section_title": "Policy Violations",
+            "importance_rank": 13
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 99,
+            "section_title": "Exhibit 10.22",
+            "importance_rank": 14
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 82,
+            "section_title": "PERFORMANCE AWARD",
+            "importance_rank": 15
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 75,
+            "section_title": "NOTICE OF GRANT",
+            "importance_rank": 16
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 112,
+            "section_title": "Rule 10b5-1 Trading Plans",
+            "importance_rank": 17
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 121,
+            "section_title": "This Policy may from time to time be waived, amended, or extended to other employees",
+            "importance_rank": 18
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 91,
+            "section_title": "Exhibit 10.21",
+            "importance_rank": 19
+        }
+    ],
+    "sub-section_analysis": [
+        {
+            "document": "2024_Annual_Report.pdf",
+            "page_number": 27,
+            "refined_text": "Other Planned Uses of Capital We will continue to invest in sales, marketing, product support infrastructure, and existing and advanced areas of technology, as well as acquisitions that align with our business strategy."
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 89,
+            "refined_text": "For the purpose of determining Beginning Price, the value of dividends and other distributions shall be determined by treating them as reinvested in additional shares of stock at the closing market price on the date of distribution."
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 108,
+            "refined_text": "Insider Trading Policy Exhibit 19.1"
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 1,
+            "refined_text": "As a result, the Company must make significant investments in R&D."
+        },
+        {
+            "document": "goog-10-k-2024.pdf",
+            "page_number": 1,
+            "refined_text": "We have invested and expect to continue to invest in new businesses, products, services, and technologies in a wide range of industries beyond online advertising."
+        },
+        {
+            "document": "2024_Annual_Report.pdf",
+            "page_number": 86,
+            "refined_text": "Pacific Time to answer investment-oriented questions about Microsoft."
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 113,
+            "refined_text": "Non-Employee Director Stock Plan; of our reports dated November 1, 2024, with respect to the consolidated financial statements of Apple Inc."
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 76,
+            "refined_text": "Upon the occurrence of certain events relating to the Companys stock contemplated by Section 11 of the Plan (including, without limitation, an extraordinary cash dividend on such stock), the Committee shall make adjustments in accordance with such section in the number of RSUs then outstanding and the number and kind of securities that may be issued in respect of the Award."
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 109,
+            "refined_text": "No Short Sales, Hedging or Trading in Derivatives."
+        },
+        {
+            "document": "10-Q4-2024-As-Filed.pdf",
+            "page_number": 111,
+            "refined_text": "The regularly scheduled restricted trading period and trading window for each quarter is indicated below."
+        }
+    ]
+}
